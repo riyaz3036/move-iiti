@@ -1,6 +1,6 @@
 # INSTRUCTIONS:
 ## Follow:
- * First download all our files from the link https://github.com/praveenkumar-ctrl/University-Transport-Management-System.git
+ * First download all our files from the link https://github.com/riyaz3036/move-iiti.git
  * These files will be downloaded as a zip folder. If you open that zip folder you can see another folder copy that folder. Inside your file explorer go into your OS(c)-drive     there you can see a xampp folder. Inside the xampp folder go to htdocs folder. Inside that create a new    folder and give it a name say group 11 and inside this folder paste     the folder which you have copied earlier. If you wish you can rename the folder to a simple name say transport.
  * You can find a file with name tests.sql, that is our database file. You can import that file into your xampp.
  * Now, open the xampp control panel and start Apache and Mysql. Press the Admin button in the line of Mysql. This should open phpMyAdmin in your browser. Now open a new tab       inside your browser and do localhost/group11/transport/regester1.php
